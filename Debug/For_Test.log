@@ -1,0 +1,4 @@
+﻿  For_Test.cpp
+D:\Program\Visual studio kod\For_Test\For_Test.cpp(56,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Program\Visual studio kod\For_Test\For_Test.cpp(80): warning C4172: возвращение адреса локальной или временной переменной
+  For_Test.vcxproj -> D:\Program\Visual studio kod\For_Test\Debug\For_Test.exe

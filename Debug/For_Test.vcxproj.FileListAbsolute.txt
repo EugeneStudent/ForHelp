@@ -1,0 +1,2 @@
+D:\Program\Visual studio kod\For_Test\Debug\For_Test.exe
+D:\Program\Visual studio kod\For_Test\Debug\For_Test.pdb
